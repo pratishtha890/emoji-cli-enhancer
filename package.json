@@ -1,0 +1,28 @@
+{
+  "name": "emoji-cli-enhancer",
+  "version": "1.0.0",
+  "description": "a package that adds emoji support to CLI outputs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratishtha890/emoji-cli-enhancer.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "pratishtha pant",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pratishtha890/emoji-cli-enhancer/issues"
+  },
+  "homepage": "https://github.com/pratishtha890/emoji-cli-enhancer#readme",
+  "dependencies": {
+    "@angular/cdk": "^18.2.0",
+    "@angular/material": "^18.2.0",
+    "chalk": "^5.3.0"
+  }
+}
